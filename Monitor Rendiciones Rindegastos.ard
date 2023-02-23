@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddOnRegData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SlientInstallation="No" SlientUpgrade="No" Partnernmsp="Soindus" SchemaVersion="3.0" Type="" MultipleVersion="false" OnDemand="" OnPremise="" ExtName="Monitor Rendiciones Rindegastos" ExtVersion="1.0.0.64" Contdata="Soindus Consulting Ltda." Partner="Soindus Consulting Ltda." DBType="Both" ClientType="A">
+  <Validity>
+    <SBOCompatibility>
+      <Version From="" To="" />
+    </SBOCompatibility>
+  </Validity>
+  <Configuration>
+    <Repository>
+      <Properties />
+    </Repository>
+    <Deployment>
+      <Properties />
+    </Deployment>
+    <Assignment>
+      <Properties />
+    </Assignment>
+  </Configuration>
+  <Addons>
+    <Addon Name="Monitor Rendiciones Rindegastos" Group="" ForceFlag="" Visible="" AutoAssign="" SelfUpgrd="">
+      <x86 AddonExe="Soindus.AddOnRindegastos.exe" AddonSig="5C8CBC3EDD23603B66A3394C4279BE49" ExeDir="X86Client">
+        <Installation>
+          <Files>
+            <File FileName="X86Client\Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Newtonsoft.Json.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\RestSharp.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\RestSharp.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\SAPBusinessOneSDK.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Soindus.AddOnRindegastos.b1s">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Soindus.AddOnRindegastos.exe">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Soindus.Interfaces.Rindegastos.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\soindus.jpg">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="X86Client\Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Newtonsoft.Json.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\RestSharp.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\RestSharp.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\SAPBusinessOneSDK.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Soindus.AddOnRindegastos.b1s">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Soindus.AddOnRindegastos.exe">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Soindus.Interfaces.Rindegastos.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\soindus.jpg">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x86>
+      <x64 AddonExe="Soindus.AddOnRindegastos.exe" AddonSig="1AC1CA8DB3BD86C38B8DF7179DDA5808" ExeDir="X64Client">
+        <Installation>
+          <Files>
+            <File FileName="X64Client\Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Newtonsoft.Json.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\RestSharp.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\RestSharp.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\SAPBusinessOneSDK.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Soindus.AddOnRindegastos.b1s">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Soindus.AddOnRindegastos.exe">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Soindus.Interfaces.Rindegastos.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\soindus.jpg">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="X64Client\Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Newtonsoft.Json.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\RestSharp.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\RestSharp.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\SAPBusinessOneSDK.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Soindus.AddOnRindegastos.b1s">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Soindus.AddOnRindegastos.exe">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Soindus.Interfaces.Rindegastos.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\soindus.jpg">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x64>
+    </Addon>
+  </Addons>
+  <XApps>
+    <XApp Name="" Path="" FileName="" />
+  </XApps>
+  <UDQs>
+    <UDQ udqname="">
+      <Hana FileName="" />
+    </UDQ>
+  </UDQs>
+</AddOnRegData>
