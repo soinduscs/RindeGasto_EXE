@@ -1,0 +1,2 @@
+# RindeGasto
+rinde gasto SBO
